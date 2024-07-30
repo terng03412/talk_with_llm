@@ -1,0 +1,9 @@
+numpy
+pygame
+sounddevice
+torch
+scipy
+transformers
+openai
+langchain
+python-dotenv
